@@ -42,4 +42,4 @@ $ rails server
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
 
-## I am here : https://www.railstutorial.org/book/rails_flavored_ruby
+## I am here : https://www.railstutorial.org/book/filling_in_the_layout
